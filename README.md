@@ -35,10 +35,10 @@ The dataset contains solar radiation measurement data with the following key par
   - Precipitation (mm/min)
  
     ## Methodology
-#### Cleaning and preparing the data by removing irrelevant columns, clipping negative readings, and handling outliers.
-#### Decomposing timestamps into 'Hour' and 'Month' for detailed temporal analysis.
-#### Comparing solar panel efficiency and irradiation measurements across the three countries.
-#### Assessing wind speed and direction to evaluate their impact on solar panel performance
+       - Cleaning and preparing the data by removing irrelevant columns, clipping negative readings, and handling outliers.
+       - Decomposing timestamps into 'Hour' and 'Month' for detailed temporal analysis.
+       - Comparing solar panel efficiency and irradiation measurements across the three countries.
+       - Assessing wind speed and direction to evaluate their impact on solar panel performance
 
   ## Tools
 
@@ -55,7 +55,7 @@ The dataset contains solar radiation measurement data with the following key par
 
 ## contributor 
 
-### Mikias Befekadu  - main contributor
+####### Mikias Befekadu  - main contributor
 
 
 
