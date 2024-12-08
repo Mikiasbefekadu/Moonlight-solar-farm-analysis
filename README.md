@@ -42,7 +42,7 @@ The dataset contains solar radiation measurement data with the following key par
 
   ## Tools
 
-  | Tool    | Purpose                        |
+| Tool    | Purpose                        |
 |---------|--------------------------------|
 | Matplotlib | For visualization           |
 | Pandas  | For data analysis              |
